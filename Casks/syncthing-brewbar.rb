@@ -1,6 +1,6 @@
 cask 'syncthing-brewbar' do
-  version 'beta4'
-  sha256 '75c781252bb36312cf29c7522580848991934db2c321db1c84f62c390732d615'
+  version 'beta5'
+  sha256 'f0d43249274b811c637cb401a689cef0f735550bf9c53004ddd03dd15079de0f'
 
   url "https://github.com/jonashoechst/syncthing-brew-gui/releases/download/#{version}/Syncthing-BrewBar.zip"
   name 'Syncthing BrewBar'
