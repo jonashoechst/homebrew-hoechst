@@ -12,6 +12,10 @@ class Dtn7 < Formula
   end
 
   test do
+    # dtn7d runs as daemon, thus only the correct installation of the binary can be tested
+    system "which", "dtn7d"
+    
+    # dtn7cat required a running dtn7d, thus use help as a simple test
     system "dtn7cat", "help"
   end
 end
