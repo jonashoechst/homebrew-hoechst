@@ -12,6 +12,6 @@ class Dtn7 < Formula
   end
 
   test do
-    system "go", "test", "-v", "-race", "./..."
+    system "dtn7cat", "help"
   end
 end
