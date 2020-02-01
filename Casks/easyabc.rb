@@ -1,8 +1,8 @@
 cask 'easyabc' do
-  version '1.3.5'
-  sha256 '6169a2fa0adaa442b2f27799ae4bf632782c7f78e7255789324e6932deb8231c'
+  version '1.3.7.7'
+  sha256 '9249693f3864872740b8666090a190bb6246fbe665195ce043ca4a7138d22b2a'
 
-  url 'https://www.nilsliberg.se/ksp/easyabc/EasyABC_1.3.5.dmg'
+  url 'https://iweb.dl.sourceforge.net/project/easyabc/EasyABC/1.3.7.7/EasyABC_1.3.7.7.dmg'
   name 'EasyABC'
   homepage 'https://www.nilsliberg.se/ksp/easyabc/'
 
