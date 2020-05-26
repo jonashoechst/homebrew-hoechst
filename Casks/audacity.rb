@@ -1,8 +1,8 @@
 cask 'audacity' do
-  version '2.2.1'
-  sha256 'a2a850ca956ad8ddf369e5bf251a739e966ebf1d57b19d88bd9a3da9121446fa'
+  version '2.3.3'
+  sha256 '43db4d502086257ca377326f9621a343149faac6d3334424b20a3b5caceadda8'
 
-  url 'https://www.audacity.de/download/audacity_mac.dmg'
+  url 'https://www.audacity.de/download/mac/audacity-macos-2.3.3.dmg'
   name 'Audacity'
   homepage 'https://www.audacity.de'
 
